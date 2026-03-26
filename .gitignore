@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor scratch files
+tempCodeRunnerFile.py
+
+# Local build outputs
+shellcode/shellcode_hnu
