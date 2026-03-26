@@ -1,4 +1,4 @@
-# HNU-CSCoversation-2026-1
+# HNU-CS-Tutorial-2026-1
 
 这是一个面向课程展示与实验演示的仓库，目前包含三个相对独立的主题：
 
