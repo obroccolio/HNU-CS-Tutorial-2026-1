@@ -246,7 +246,3 @@ g++ A.cpp -O2 -std=c++17 -o float_precision_demo
 - `shellcode/` 更偏向操作系统、体系结构和底层执行机制展示
 - `float_precision/` 更偏向程序设计基础、计算机表示与数值精度理解
 
-如果后续还要继续扩展，我比较建议再补两个内容：
-
-1. `requirements.txt`，方便一键安装 Python 依赖
-2. 演示截图或 GIF，方便 GitHub 首页直接预览效果
